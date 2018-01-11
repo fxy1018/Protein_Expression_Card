@@ -8,7 +8,6 @@ import json
 
 if __name__ == '__main__':
     local = ['root', '1234', 'localhost', 'protein_exp']
-    serve = ['ironwood', 'irtest', '172.20.203.118:3306', 'protein_exp']
     serve_local = ['ironwood', 'irtest', 'localhost', 'protein_exp']
     server = serve_local
     #create tables
